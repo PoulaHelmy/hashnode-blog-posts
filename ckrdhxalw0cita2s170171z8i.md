@@ -1,4 +1,4 @@
-## The Missing Part
+## The Missing Part ( learning Angular )
 
 # This is Part One of our series 
 
